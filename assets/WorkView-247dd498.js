@@ -1,0 +1,1 @@
+import{_ as e,o,c as s,a as _}from"./index-e114399f.js";const t={},c={class:"work"},n=_("h1",null,"This is a work page",-1),a=[n];function r(i,d){return o(),s("div",c,a)}const f=e(t,[["render",r]]);export{f as default};
